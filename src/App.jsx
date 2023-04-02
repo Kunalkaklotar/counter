@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import { Box, Button, Center, Container, Heading } from "@Chakra-ui/react";
+import { Box, Button, Center, Container, Heading } from "@chakra-ui/react";
 
 function App() {
     let[state,setState] = useState(0);
